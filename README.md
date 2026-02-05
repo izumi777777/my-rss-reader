@@ -42,7 +42,7 @@
 
 | サイト名 | ジャンル | RSS URL |
 |--------|--------|--------|
-| Yahoo! ニュース | 主要トピックス | https://news.yahoo.co.jp/rss/topics/top-picks.xml |
+| Google ニュース | 主要トピックス | https://news.google.com/rss/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRE5mTTJRU0FtcGhLQUFQAQ?hl=ja&gl=JP&ceid=JP:ja |
 | NHK ニュース | 最新ニュース | https://www.nhk.or.jp/rss/news/cat0.xml |
 | ギズモード・ジャパン | ガジェット・技術 | https://www.gizmodo.jp/index.xml |
 | ITmedia News | ITビジネス・技術 | https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml |
